@@ -29,7 +29,7 @@ enableDiscreetLogin: false
 # Used to sign session cookies. Will be auto-generated if not set
 cookieSecret: ''
 # Disable CSRF protection - NOT RECOMMENDED
-disableCsrfProtection: false
+disableCsrfProtection: true
 # Disable startup security checks - NOT RECOMMENDED
 securityOverride: false
 # -- ADVANCED CONFIGURATION --
